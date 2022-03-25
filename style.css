@@ -1,0 +1,16 @@
+body{
+    background: aqua;
+    color: aliceblue;
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+.objectName{
+    color: black;
+}
+#camera{
+    height: 300px;
+    width: 350px;
+    border: 2px dashed black;
+}
